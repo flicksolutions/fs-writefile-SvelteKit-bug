@@ -2,7 +2,7 @@
 	"name": "kit-template-default",
 	"version": "0.0.1",
 	"stackblitz": {
-    "startCommand": "npm i && npm run build"
+    "startCommand": "npm run build"
   },
 	"scripts": {
 		"dev": "vite dev",
